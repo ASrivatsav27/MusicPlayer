@@ -3,5 +3,5 @@
 A simple HTML, CSS, and JavaScript music player project with a clean interface.
 
 ## 🎥 Live Demo
-[Watch Demo](https://raw.githubusercontent.com/USERNAME/REPO/main/musicplayer.mp4)
+[Watch Demo](https://asrivatsav27.github.io/MusicPlayer/musicplayer/demo.html)
 
